@@ -3,3 +3,7 @@
 我继续修改了readMe文件哟，不知道你们能不能看到。
 
 add new message;
+
+third test;
+
+four test
